@@ -1,5 +1,5 @@
 # Amazon_Vine_Analysis
-Using AWS and Pgadmin4 to do an analysis on vine data
+Using AWS and Pgadmin4 to do an analysis on video game data
 
 ## Objective of this analysis:
 #### Deliverable 1: Perform ETL on Amazon Product Reviews
